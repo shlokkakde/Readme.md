@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Shlok Kakade
 =====================================================================================================================================
 
-Full Stack Developer
+I am a Full Stack Developer
 --------------------
 
 * 🌍  I'm based in Mumbai
@@ -24,4 +24,20 @@ src="https://img.shields.io/twitter/follow/shlokakade?logo=twitter&style=for-the
 
 ### Stats
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/shlokkakde?cardType=github&theme=dark&fontFamily=&preferLogin=false&Points.ContributedToNotOwnerRepositories=11.1&Ring=FFFFFF&Border=000000&Title=FFFFFF)](https://git.io/awesome-stats-card)
+<div align="center">
+
+  <!-- GitHub Stats -->
+  <img
+    src="https://awesome-github-stats.azurewebsites.net/user-stats/shlokkakde?cardType=github&theme=dark&fontFamily=&preferLogin=false&Points.ContributedToNotOwnerRepositories=11.1&Ring=FFFFFF&Border=000000&Title=FFFFFF"
+    width="500"
+  />
+
+  <br/>
+
+  <!-- LeetCode Stats -->
+  <img
+    src="https://leetcard.jacoblin.cool/shlokkakade?theme=light&font=Gayathri&ext=heatmap"
+    width="500"
+  />
+
+</div>
