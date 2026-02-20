@@ -47,6 +47,9 @@
 
 ## 📊 Stats  
 <div align="center">
+  
+### 💪LeetCode Stats  
+<img src="https://leetcard.jacoblin.cool/shlokkakade?theme=light&font=JetBrains%20Mono&ext=heatmap" width="500"/>
 
 ### 🔥 GitHub Stats  
 <img src="https://awesome-github-stats.azurewebsites.net/user-stats/shlokkakde?cardType=github&theme=dark&border=000000&Title=FFFFFF" width="500" />
@@ -58,8 +61,6 @@
 
 <br/><br/>
 
-### 💪LeetCode Stats  
-<img src="https://leetcard.jacoblin.cool/shlokkakade?theme=light&font=JetBrains%20Mono&ext=heatmap" width="500"/>
 
 </div>
 
